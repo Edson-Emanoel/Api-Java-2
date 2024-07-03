@@ -28,7 +28,7 @@
     http://localhost:8080/api/alunos/remover/2
 ````
 
-![image]("https://img.shields.io/badge/put-b9ffcf?style=for-the-badge&textColor=white") Alterar
+![image]("https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white") Alterar
 ````
     http://localhost:8080/api/alunos/alterar/3
 ````
