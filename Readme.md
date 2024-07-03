@@ -14,13 +14,13 @@
     }
 ````
 
-<img src="https://img.shields.io/badge/GET-792DE4?style=for-the-badge" /> Listar Todos
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar Todos
 
 ````
     http://localhost:8080/api/alunos/todos
 ````
 
-<img src="https://img.shields.io/badge/GET-792DE4?style=for-the-badge" /> Listar por Id
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar por Id
 
 ````
     http://localhost:8080/api/alunos/aluno/1
@@ -32,7 +32,7 @@
     http://localhost:8080/api/alunos/remover/2
 ````
 
-<img src="https://img.shields.io/badge/put-b9ffcf?style=for-the-badge&textColor=white" /> Alterar
+<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge&textColor=white" /> Alterar
 
 ````
     http://localhost:8080/api/alunos/alterar/3
