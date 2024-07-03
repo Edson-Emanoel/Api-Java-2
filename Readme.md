@@ -1,8 +1,6 @@
 ### End Points
 
-<img src="https://img.shields.io/badge/POST-298D46?style=for-the-badge" />
-
-**Cadastrar** 
+<img src="https://img.shields.io/badge/POST-298D46?style=for-the-badge" /> Cadastrar  
 
 ````
     http://localhost:8080/api/alunos/cadastrar
@@ -16,9 +14,7 @@
     }
 ````
 
-<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" />
-
-**Alterar**
+<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> Alterar
 
 ````
     http://localhost:8080/api/alunos/alterar/3
@@ -33,9 +29,7 @@
     }
 ````
 
-<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" />
-
-**Listar Todos*
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar Todos
 
 ````
     http://localhost:8080/api/alunos/todos
@@ -47,9 +41,7 @@
     http://localhost:8080/api/alunos/aluno/1
 ````
 
-<img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" />
-
-**Remover** 
+<img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" /> Remover 
 
 ````
     http://localhost:8080/api/alunos/remover/2
