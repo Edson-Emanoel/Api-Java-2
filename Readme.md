@@ -1,5 +1,7 @@
 ### End Points
 
+![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
+
 ![image]({"https://img.shields.io/badge/POST-298D46?style=for-the-badge"}) Cadastrar
 ````
     http://localhost:8080/api/alunos/cadastrar
