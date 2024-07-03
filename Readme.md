@@ -14,6 +14,21 @@
     }
 ````
 
+<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> Alterar
+
+````
+    http://localhost:8080/api/alunos/alterar/3
+````
+* Body
+````
+    {
+        "id": 1,
+        "nome": "Ana Beatriz",
+        "serie": "9º A",
+        "sexo": "F" 
+    }
+````
+
 <img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar Todos
 
 ````
@@ -30,19 +45,4 @@
 
 ````
     http://localhost:8080/api/alunos/remover/2
-````
-
-<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge&textColor=white" /> Alterar
-
-````
-    http://localhost:8080/api/alunos/alterar/3
-````
-* Body
-````
-    {
-        "id": 1,
-        "nome": "Ana Beatriz",
-        "serie": "9º A",
-        "sexo": "F" 
-    }
 ````
