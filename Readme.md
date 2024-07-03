@@ -14,7 +14,7 @@
     }
 ````
 
-<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> <span><h3>Alterar</h3></span>
+<span> <img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> <h3>Alterar</h3></span>
 
 ````
     http://localhost:8080/api/alunos/alterar/3
@@ -29,19 +29,19 @@
     }
 ````
 
-<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <span><h3>Listar Todos</h3></span>
+<span> <img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <h3>Listar Todos</h3></span>
 
 ````
     http://localhost:8080/api/alunos/todos
 ````
 
-<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <span><h3>Listar por Id</h3></span>
+<span> <img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <h3>Listar por Id</h3></span>
 
 ````
     http://localhost:8080/api/alunos/aluno/1
 ````
 
-<img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" /> <span><h3>Remover</h3></span>
+<span> <img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" /> <h3>Remover</h3></span>
 
 ````
     http://localhost:8080/api/alunos/remover/2
