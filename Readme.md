@@ -35,7 +35,7 @@
     http://localhost:8080/api/alunos/todos
 ````
 
-<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> Listar por Id
 
 ````
     http://localhost:8080/api/alunos/aluno/1
