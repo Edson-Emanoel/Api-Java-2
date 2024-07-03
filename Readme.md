@@ -1,6 +1,7 @@
 ### End Points
 
-<img src="https://img.shields.io/badge/POST-298D46?style=for-the-badge" /> <span><h3>Cadastrar</h3></span>
+<img src="https://img.shields.io/badge/POST-298D46?style=for-the-badge" />
+**Cadastrar** 
 
 ````
     http://localhost:8080/api/alunos/cadastrar
@@ -14,7 +15,8 @@
     }
 ````
 
-<span> <img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" /> <h3>Alterar</h3></span>
+<img src="https://img.shields.io/badge/put-FCFF3A?style=for-the-badge" />
+**Alterar**
 
 ````
     http://localhost:8080/api/alunos/alterar/3
@@ -29,19 +31,21 @@
     }
 ````
 
-<span> <img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <h3>Listar Todos</h3></span>
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" />
+**Listar Todos*
 
 ````
     http://localhost:8080/api/alunos/todos
 ````
 
-<span> <img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" /> <h3>Listar por Id</h3></span>
+<img src="https://img.shields.io/badge/GET-3217EA?style=for-the-badge" />
 
 ````
     http://localhost:8080/api/alunos/aluno/1
 ````
 
-<span> <img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" /> <h3>Remover</h3></span>
+<img src="https://img.shields.io/badge/DELETE-FF0000?style=for-the-badge" />
+**Remover** 
 
 ````
     http://localhost:8080/api/alunos/remover/2
